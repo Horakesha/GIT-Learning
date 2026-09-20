@@ -11,3 +11,6 @@ email,
 address,
 city
 from table
+
+select
+* from table
